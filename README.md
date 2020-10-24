@@ -9,7 +9,7 @@
 ## Page in action
 You can view the page in action [**here**](https://johnwesleyk.github.io/Easy-Bank-Landing-Page/)
 
-## Tools and Technologies used:
+## Technologies used:
 <p align="center">
   <img width="100" height="100" src="https://github.com/JohnWesleyK/Easy-Bank-Landing-Page/blob/master/images/html.png?raw=true">
   <img width="100" height="100" src="https://github.com/JohnWesleyK/Easy-Bank-Landing-Page/blob/master/images/css.png?raw=true">
