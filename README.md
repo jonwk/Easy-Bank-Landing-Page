@@ -7,7 +7,7 @@ Hey there,
 - All thanks to the tutorials on youtube on web dev, they've been used extensively in making this project XD.
 
 ## Page in action
-You can view the page in action [here](https://johnwesleyk.github.io/Easy-Bank-Landing-Page/)
+You can view the page in action [**here**](https://johnwesleyk.github.io/Easy-Bank-Landing-Page/)
 
 ## Tools and Technologies used:
 <p align="center">
