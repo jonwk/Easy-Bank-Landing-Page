@@ -1,10 +1,7 @@
 # Easy-Bank-Landing-Page
 
-
 - This is a **responsive front-end webpage** that is mostly made up of **HTML** and **SASS** (including **CSS**) and a littile bit of **JavaScript**.
-- This is also auto-scaled, which means the layout changes with the window size you're viewing it i.e. appears differntly on mobile, tablet, and desktop.
 - This is a challenge from frontendmentor, you can view it [here](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN).
-- All thanks to the tutorials on youtube on web dev, they've been used extensively in making this project XD.
 
 ## Page in action
 You can view the page in action [**here**](https://johnwesleyk.github.io/Easy-Bank-Landing-Page/)
@@ -16,3 +13,6 @@ You can view the page in action [**here**](https://johnwesleyk.github.io/Easy-Ba
   <img width="100" height="100" src="https://github.com/JohnWesleyK/Easy-Bank-Landing-Page/blob/master/images/js.png?raw=true">
   <img width="150" height="100" src="https://github.com/JohnWesleyK/Easy-Bank-Landing-Page/blob/master/images/sass.png?raw=true">
 </p>
+
+## Acknowledgements
+This is based on a tutorial from [thecodercoder](https://github.com/thecodercoder) which is available in the following [playlist](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
